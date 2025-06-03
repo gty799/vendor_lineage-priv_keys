@@ -74,4 +74,3 @@ PRODUCT_CERTIFICATE_OVERRIDES += \
     WifiDialog:com.android.wifi.dialog.certificate.override
 
 PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/lineage-priv/keys/releasekey
-PRODUCT_EXTRA_RECOVERY_KEYS += vendor/lineage-priv/keys/signed
